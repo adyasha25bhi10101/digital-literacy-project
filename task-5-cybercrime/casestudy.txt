@@ -1,0 +1,24 @@
+UPI/Online Payment Fraud
+Focus: The "QR Code/Request Money" Scam
+Definition UPI (Unified Payments Interface) fraud involves exploiting the "Request Money"
+feature of digital payment apps. In this scam, attackers trick victims into authorizing a
+transaction that debits money from their account under the guise of receiving a payment.
+The Scenario A user named Arjun lists an old laptop for sale on a popular second-hand
+marketplace. A "buyer" contacts him immediately, oƯering the full asking price without
+negotiation.
+Step-by-Step Execution 1. The Hook: The buyer claims they are out of town but want to
+"secure" the item by sending an immediate advance payment via UPI. 2.
+The Bait: The attacker sends a QR code or a "Payment Request" notification to Arjun’s
+phone via a common app (like Google Pay ).
+ 3. The Deception: The attacker tells Arjun, "Just scan this code and enter your PIN to
+receive the money into your bank account."
+ 4. The Theft: Arjun, not realizing that a PIN is never required to receive money, enters his
+6-digit UPI PIN.
+ 5. The Breach: Instead of receiving $200, the app instantly debits $200 from Arjun’s
+account and transfers it to the attacker’s wallet.
+Target Typically targeted are individuals selling items on online marketplaces, elderly
+users who are less tech-savvy, or small business owners unfamiliar with how "Request"
+features work.
+Consequences Immediate financial loss that is often diƯicult to reverse since UPI
+transactions are instantaneous. It also leads to a loss of trust in digital payment systems
+for the victim. 
