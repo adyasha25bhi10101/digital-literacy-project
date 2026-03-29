@@ -1,0 +1,29 @@
+## Part B: Prevention Checklist
+'Stay Safe Online' Checklist
+1. UPI Receipt Rule: Never enter your UPI PIN to receive money. If someone asks you
+to "scan a QR code" or "enter your PIN" to get a payment, it is 100% a scam.
+2. Verify 'Collect Requests': Before clicking "Pay" on apps like Phone Pe, Google Pay,
+or Paytm, carefully read the notification. Scammers often send "Collect Requests"
+disguised as cashback or refunds.
+3. App-Based : Switch from SMS-based Two-Factor Authentication to an authenticator
+app (like Google Authenticator) for your email and Instagram. This protects you from
+"SIM Swapping" attacks.
+4. Public Wi-Fi Hygiene: Avoid logging into your student portal or banking apps while
+on campus or cafe public Wi-Fi. Use your mobile data or a trusted VPN for sensitive
+tasks.
+5. The 'Digital Arrest' Reality Check: Remember that no Indian law enforcement
+agency (CBI, Police, or Customs) will ever "arrest" you via a Skype or WhatsApp
+video call or demand money to "clear your name."
+6. Masked Aadhaar: When submitting ID for college events or internships, use a
+(which hides the first 8 digits) to prevent identity theft.
+7. Social Media Privacy: Set your profiles to private and be skeptical of "urgent"
+messages from friends asking for money—their accounts might be compromised.
+Always call them to verify.
+8. OƯicial Source Downloads: Only download study materials, PDFs, or software
+from oƯicial university websites or trusted stores. Pirated "cracked" software often
+contains hidden ransomware.
+
+## Reporting Channels
+If you or someone you know is a victim of cybercrime, report it immediately:
+1. National Cyber Crime Reporting Portal: cybercrime.gov.in
+2. National Helpline Number: 1930 (Available 24/7)
